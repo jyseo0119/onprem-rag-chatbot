@@ -1,5 +1,12 @@
 # On-Prem RAG Chatbot
 
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Vector%20DB-Qdrant-DC244C)
+![BGE-m3](https://img.shields.io/badge/Embeddings-BGE--m3-FFB000)
+![vLLM](https://img.shields.io/badge/On--prem-vLLM%20%2B%20Qwen2.5-1868F2)
+
 A minimal, runnable **Retrieval-Augmented Generation** chatbot over internal
 documents, built to demonstrate a production-shaped RAG pipeline.
 
